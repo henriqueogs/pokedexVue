@@ -1,5 +1,5 @@
 # pokedexx
-
+Runing in https://pokedex-vue-henriqueogs.vercel.app/
 ## Project setup
 ```
 yarn install
